@@ -1,5 +1,8 @@
-Rete Stage0 renderer menu plugin
+MOVED TO https://github.com/retejs/stage0-rete-menu-plugin
 ====
+
+Rete Stage0 renderer menu plugin
+
 #### Rete.js plugin
 
 ```js
